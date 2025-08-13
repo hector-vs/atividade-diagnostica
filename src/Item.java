@@ -2,6 +2,7 @@ public class Item {
     int id;
     String nome;
     double preco;
+    String teste;
 
     public Item(int id, String nome, float preco) {
         this.id = id;
